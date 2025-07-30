@@ -1,0 +1,49 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fef5dc;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #9c0d23;
+  color: white;
+  padding: 15px;
+  text-align: center;
+  font-weight: bold;
+}
+
+h1 {
+  background-color: #f7e2c4;
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 8px;
+  margin: 20px auto;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+}
+
+.conteudo {
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+}
+
+.poster img {
+  width: 100%;
+  max-width: 400px;
+  border: 5px solid #ccc;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+
+.info {
+  margin-top: 20px;
+  text-align: left;
+  font-size: 18px;
+  background-color: #fff6e1;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.info strong {
+  color: #444;
+}
